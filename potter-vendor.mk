@@ -615,8 +615,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/potter/proprietary/vendor/lib/libchromatix_imx338_postproc.so:system/vendor/lib/libchromatix_imx338_postproc.so \
     vendor/motorola/potter/proprietary/vendor/lib/libchromatix_imx338_qtr_res_preview_3a.so:system/vendor/lib/libchromatix_imx338_qtr_res_preview_3a.so \
     vendor/motorola/potter/proprietary/vendor/lib/libchromatix_imx338_qtr_res_snapshot.so:system/vendor/lib/libchromatix_imx338_qtr_res_snapshot.so \
-    vendor/motorola/potter/proprietary/vendor/lib/libtinycompress.so:system/vendor/lib/libtinycompress.so
-    vendor/motorola/potter/proprietary/vendor/lib/libtinycompress_vendor.so:system/vendor/lib/libtinycompress_vendor.so
+    vendor/motorola/potter/proprietary/vendor/lib/libtinycompress.so:system/vendor/lib/libtinycompress.so \
+    vendor/motorola/potter/proprietary/vendor/lib/libtinycompress_vendor.so:system/vendor/lib/libtinycompress_vendor.so \
     vendor/motorola/potter/proprietary/vendor/lib/libchromatix_imx338_snapshot.so:system/vendor/lib/libchromatix_imx338_snapshot.so \
     vendor/motorola/potter/proprietary/vendor/lib/libchromatix_imx338_video_4k.so:system/vendor/lib/libchromatix_imx338_video_4k.so \
     vendor/motorola/potter/proprietary/vendor/lib/libchromatix_imx338_zsl_preview_3a.so:system/vendor/lib/libchromatix_imx338_zsl_preview_3a.so \
